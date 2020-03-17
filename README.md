@@ -1,4 +1,7 @@
 # Sequelize with nodeJS Tutorial
+
+![ScheCapture](https://user-images.githubusercontent.com/47104485/76856287-a4895e00-685b-11ea-9ac2-4be808b8bc71.PNG)
+
   In this tutorial, we will be learning how to make a simple database connection along with <a href="https://sequelize.org/v5/index.html">SequelizeJS</a> queries
 
 Run the commands below:
